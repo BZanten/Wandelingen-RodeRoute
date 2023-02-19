@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gpx version="1.1" creator="GPS Track Editor" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gte="http://www.gpstrackeditor.com/xmlschemas/General/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" targetNamespace="http://www.topografix.com/GPX/1/1" elementFormDefault="qualified" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Rood-Blauw.gpx</name>
+    <name>BlauweRoute.gpx</name>
     <link href="https://www.gpstracks.nl">
       <text>Wandelingen</text>
     </link>
@@ -220,99 +220,6 @@
     <sym>marker-pin-small</sym>
   </wpt>
 
-  <trk>
-    <name>Rode route</name>
-    <trkseg>
-      <trkpt lat="51.412220" lon="5.535099"></trkpt>
-      <trkpt lat="51.412321" lon="5.535149"></trkpt>
-      <trkpt lat="51.412641" lon="5.536054"></trkpt>
-      <trkpt lat="51.413092" lon="5.537494"></trkpt>
-      <trkpt lat="51.413216" lon="5.537693"></trkpt>
-      <trkpt lat="51.413420" lon="5.537835"></trkpt>
-      <trkpt lat="51.413772" lon="5.537651"></trkpt>
-      <trkpt lat="51.414314" lon="5.537625"></trkpt>
-      <trkpt lat="51.415153" lon="5.537329"></trkpt>
-      <trkpt lat="51.415516" lon="5.537264"></trkpt>
-      <trkpt lat="51.415895" lon="5.536960"></trkpt>
-      <trkpt lat="51.416147" lon="5.536632"></trkpt>
-      <trkpt lat="51.416770" lon="5.535980"></trkpt>
-      <trkpt lat="51.416819" lon="5.535962"></trkpt>
-      <trkpt lat="51.416916" lon="5.535813"></trkpt>
-      <trkpt lat="51.417040" lon="5.535731"></trkpt>
-      <trkpt lat="51.417523" lon="5.535629"></trkpt>
-      <trkpt lat="51.417899" lon="5.535208"></trkpt>
-      <trkpt lat="51.418290" lon="5.535886"></trkpt>
-      <trkpt lat="51.419480" lon="5.534184"></trkpt>
-      <trkpt lat="51.419165" lon="5.532829"></trkpt>
-      <trkpt lat="51.419021" lon="5.531955"></trkpt>
-      <trkpt lat="51.419030" lon="5.531487"></trkpt>
-      <trkpt lat="51.419091" lon="5.530990"></trkpt>
-      <trkpt lat="51.419176" lon="5.530039"></trkpt>
-      <trkpt lat="51.419248" lon="5.529341"></trkpt>
-      <trkpt lat="51.419170" lon="5.529190"></trkpt>
-      <trkpt lat="51.418569" lon="5.529516"></trkpt>
-      <trkpt lat="51.417850" lon="5.529743"></trkpt>
-      <trkpt lat="51.417813" lon="5.529340"></trkpt>
-      <trkpt lat="51.417499" lon="5.528131"></trkpt>
-      <trkpt lat="51.416915" lon="5.527510"></trkpt>
-      <trkpt lat="51.418051" lon="5.525842"></trkpt>
-      <trkpt lat="51.417419" lon="5.524695"></trkpt>
-      <trkpt lat="51.417135" lon="5.524458"></trkpt>
-      <trkpt lat="51.417017" lon="5.524439"></trkpt>
-      <trkpt lat="51.417035" lon="5.524213"></trkpt>
-      <trkpt lat="51.416883" lon="5.523936"></trkpt>
-      <trkpt lat="51.417059" lon="5.522676"></trkpt>
-      <trkpt lat="51.414945" lon="5.522495"></trkpt>
-      <trkpt lat="51.414735" lon="5.522217"></trkpt>
-      <trkpt lat="51.414582" lon="5.521891"></trkpt>
-      <trkpt lat="51.414495" lon="5.521402"></trkpt>
-      <trkpt lat="51.414264" lon="5.521032"></trkpt>
-      <trkpt lat="51.413875" lon="5.520877"></trkpt>
-      <trkpt lat="51.414410" lon="5.519615"></trkpt>
-      <trkpt lat="51.414920" lon="5.519702"></trkpt>
-      <trkpt lat="51.415227" lon="5.517884"></trkpt>
-      <trkpt lat="51.415444" lon="5.517202"></trkpt>
-      <trkpt lat="51.412614" lon="5.515562"></trkpt>
-      <trkpt lat="51.412640" lon="5.515110"></trkpt>
-      <trkpt lat="51.412651" lon="5.513810"></trkpt>
-      <trkpt lat="51.410898" lon="5.516228"></trkpt>
-      <trkpt lat="51.410609" lon="5.515865"></trkpt>
-      <trkpt lat="51.410390" lon="5.516080"></trkpt>
-      <trkpt lat="51.410223" lon="5.516410"></trkpt>
-      <trkpt lat="51.410009" lon="5.516580"></trkpt>
-      <trkpt lat="51.409699" lon="5.517073"></trkpt>
-      <trkpt lat="51.409526" lon="5.517473"></trkpt>
-      <trkpt lat="51.409186" lon="5.517954"></trkpt>
-      <trkpt lat="51.408724" lon="5.518780"></trkpt>
-      <trkpt lat="51.408466" lon="5.519321"></trkpt>
-      <trkpt lat="51.408013" lon="5.519965"></trkpt>
-      <trkpt lat="51.407810" lon="5.520146"></trkpt>
-      <trkpt lat="51.408103" lon="5.520328"></trkpt>
-      <trkpt lat="51.408567" lon="5.520935"></trkpt>
-      <trkpt lat="51.408886" lon="5.521439"></trkpt>
-      <trkpt lat="51.409876" lon="5.522800"></trkpt>
-      <trkpt lat="51.410043" lon="5.524931"></trkpt>
-      <trkpt lat="51.409893" lon="5.525395"></trkpt>
-      <trkpt lat="51.409942" lon="5.526751"></trkpt>
-      <trkpt lat="51.410030" lon="5.527715"></trkpt>
-      <trkpt lat="51.410096" lon="5.528102"></trkpt>
-      <trkpt lat="51.410409" lon="5.529223"></trkpt>
-      <trkpt lat="51.410693" lon="5.529972"></trkpt>
-      <trkpt lat="51.410769" lon="5.530422"></trkpt>
-      <trkpt lat="51.410818" lon="5.530956"></trkpt>
-      <trkpt lat="51.410811" lon="5.531480"></trkpt>
-      <trkpt lat="51.410726" lon="5.532936"></trkpt>
-      <trkpt lat="51.410782" lon="5.533203"></trkpt>
-      <trkpt lat="51.411379" lon="5.534759"></trkpt>
-      <trkpt lat="51.411634" lon="5.535015"></trkpt>
-      <trkpt lat="51.411866" lon="5.535094"></trkpt>
-      <trkpt lat="51.412173" lon="5.535078"></trkpt>
-      <extensions>
-        <gte:name>Rood</gte:name>
-        <gte:color>#ff0000</gte:color>
-      </extensions>
-    </trkseg>
-  </trk>
   <trk>
     <name>Blauwe route</name>
     <trkseg>
