@@ -1,65 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gpx version="1.1" creator="GPS Track Editor" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gte="http://www.gpstrackeditor.com/xmlschemas/General/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" targetNamespace="http://www.topografix.com/GPX/1/1" elementFormDefault="qualified" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Rood-Blauw.NoTime.gpx</name>
+    <name>Rood-Blauw.gpx</name>
     <link href="https://www.gpstracks.nl">
       <text>Wandelingen</text>
     </link>
   </metadata>
   <wpt lat="51.4117377" lon="5.5045393">
     <name>B001</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4124780" lon="5.5059730">
     <name>B002</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4141852" lon="5.5092868">
     <name>B003</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4145173" lon="5.5098031">
     <name>B004</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4154072" lon="5.5109257">
     <name>B005</name>
     <desc>Verf pijl</desc>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4152960" lon="5.5113065">
     <name>B006</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4149221" lon="5.5116566">
     <name>B007</name>
     <desc>Verf</desc>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4142094" lon="5.5122010">
     <name>B008</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4135763" lon="5.5126181">
     <name>B009</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4128820" lon="5.5135649">
     <name>B010</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4126219" lon="5.5141027">
     <name>B011</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4126077" lon="5.5150951">
     <name>B012</name>
     <desc>Verf</desc>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4127072" lon="5.5156879">
     <name>B013</name>
     <desc>Verf plus paaltje</desc>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4142339" lon="5.5163731">
     <name>RB014</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4155306" lon="5.5171141">
     <name>B015</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4181566" lon="5.5183463">
     <name>B016</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4184046" lon="5.5202234">
     <name>B017</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4207791" lon="5.5229661">
     <name>B018</name>
@@ -80,98 +97,129 @@
   </wpt>
   <wpt lat="51.4191575" lon="5.5290567">
     <name>RB022</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4169896" lon="5.5272455">
     <name>RB023</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4180810" lon="5.5256352">
     <name>RB024</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4171244" lon="5.5243047">
     <name>RB025</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4169658" lon="5.5225673">
     <name>RB026</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4146587" lon="5.5218511">
     <name>RB027</name>
     <desc>Verf</desc>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4137680" lon="5.5209189">
     <name>B028</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4125602" lon="5.5228767">
     <name>B029</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4119127" lon="5.5223766">
     <name>B030</name>
     <desc>Verf</desc>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4108053" lon="5.5223597">
     <name>B031</name>
     <desc>Verf</desc>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4097295" lon="5.5225249">
     <name>B032</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4089102" lon="5.5213850">
     <name>B033</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4088540" lon="5.5212677">
     <name>B034</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4080523" lon="5.5201967">
     <name>R035</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4080614" lon="5.5200007">
     <name>B036</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4086728" lon="5.5188025">
     <name>R037</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4087104" lon="5.5186102">
     <name>B038</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4074991" lon="5.5167112">
     <name>B039</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4067395" lon="5.5159508">
     <name>B040</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4059975" lon="5.5134000">
     <name>B041</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4056930" lon="5.5127187">
     <name>B042</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4056997" lon="5.5112998">
     <name>B043</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4057766" lon="5.5108197">
     <name>B044</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4063371" lon="5.5109109">
     <name>B045 missing</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4069570" lon="5.5093928">
     <name>BG046</name>
     <desc>Blauw geel</desc>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4074606" lon="5.5066341">
     <name>B047</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4078251" lon="5.5059003">
     <name>B048</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4091948" lon="5.5053225">
     <name>B049</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4098322" lon="5.5048974">
     <name>B050</name>
+    <sym>marker-pin-small</sym>
   </wpt>
   <wpt lat="51.4103065" lon="5.5043770">
     <name>B051</name>
+    <sym>marker-pin-small</sym>
   </wpt>
+
   <trk>
     <name>Rode route</name>
     <trkseg>
